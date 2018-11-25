@@ -1,0 +1,23 @@
+/* CSS Document */
+.Regla1{
+	background-color:red;
+	color:#CCC;
+	font-weight:bold;
+	padding: 50px 500px;
+	position:Absolute;
+	top: 100px;
+	left: 200px;
+	z-index:2;
+	
+}
+#Regla2{
+	background-color:blue;
+	color:#CCC;
+	font-weight:bold;
+	padding: 100px 15px 20px 500px;
+	position:Absolute;
+	left:300px;
+	z-index:1;
+}
+
+
