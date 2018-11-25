@@ -1,0 +1,16 @@
+/* CSS Document */
+.marca{
+	
+}
+
+.titulo{
+	font-weight:bold;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:18px;	
+}
+.imagen{
+	background-size:cover;
+	width:30%;
+	display:table-cell;
+}
+
